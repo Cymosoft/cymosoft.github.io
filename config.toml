@@ -1,7 +1,7 @@
 baseURL = "https://cymosoft.com/"
 languageCode = "en-us"
 title = "Cymosoft., JSC"
-theme = "airspace-hugo"
+theme = "ananke"
 
 [Languages]
   [Languages.en]
