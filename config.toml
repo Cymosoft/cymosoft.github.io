@@ -1,0 +1,65 @@
+baseURL = "https://cymosoft.com/"
+languageCode = "en-us"
+title = "Cymosoft., JSC"
+theme = "airspace-hugo"
+
+[Languages]
+  [Languages.en]
+    title = "Cymosoft., JSC"
+    weight = 0
+    languagename = "English"
+
+  [[Languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+  [[Languages.en.menu.main]]
+    url = "/services/"
+    name = "Services"
+    weight = 2
+
+  [[Languages.en.menu.main]]
+    url = "/products/"
+    name = "Products"
+    weight = 3
+  
+  [[Languages.en.menu.main]]
+    url = "/aboutus/"
+    name = "About us"
+    weight = 4
+
+  [[Languages.en.menu.main]]
+    url = "/contact/"
+    name = "Contact us"
+    weight = 5
+
+  [Languages.vi]
+    title = "Công ty CP Cymosoft"
+    weight = 1
+    languagename = "Tiếng Việt"
+
+  [[Languages.vi.menu.main]]
+    url = "/vi/"
+    name = "Trang chủ"
+    weight = 1
+
+  [[Languages.vi.menu.main]]
+    url = "/vi/aboutus/"
+    name = "Về chúng tôi"
+    weight = 0
+
+  [Languages.ja]
+    title = "株式会社サイモソフト"
+    weight = 2
+    languagename = "日本語"
+
+  [[Languages.ja.menu.main]]
+    url = "/ja/"
+    name = "ホーム"
+    weight = 1
+
+  [[Languages.ja.menu.main]]
+    url = "/ja/aboutus/"
+    name = "企業情報"
+    weight = 0
