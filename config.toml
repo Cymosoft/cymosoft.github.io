@@ -39,13 +39,13 @@ unsafe = true
 
 ################################# Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 title = "Cymosoft"
 description = "This is meta description"
 author = "Cymosoft"
-images = [ "images/logo.png" ] # First image here will be used as fallback if a page has no images of its own
+images = [ "images/logo.svg" ] # First image here will be used as fallback if a page has no images of its own
 
 
 ################################# Sidebar widgets #############################
