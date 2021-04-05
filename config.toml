@@ -39,7 +39,7 @@ unsafe = true
 
 ################################# Default parameters ##########################
 [params]
-favicon = "images/favicon.svg"
+favicon = "images/favicon.png"
 logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
