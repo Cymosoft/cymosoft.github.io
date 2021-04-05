@@ -259,78 +259,78 @@ copyright = "Copyright &copy; 2021 [Cymosoft](https://themefisher.com). Tous dro
 
 # Main menu
 [[languages.ja.menu.main]]
-name = "Accueil"
+name = "ホーム"
 URL = "/"
 weight = 1
 
 [[languages.ja.menu.main]]
-name = "À propos"
+name = "会社情報"
 URL = "about"
 weight = 2
 
 [[languages.ja.menu.main]]
-name = "Projet"
+name = "プロジェクト"
 URL = "project"
 weight = 3
 
 [[languages.ja.menu.main]]
-name = "Blog"
+name = "ブログ"
 URL = "blog"
 weight = 4
 
 [[languages.ja.menu.main]]
 weight = 5
-name = "Plus"
+name = "もっと見る"
 hasChildren = true
 
   [[languages.ja.menu.main]]
-  parent = "Plus"
-  name = "Questions fréquentes"
+  parent = "もっと見る"
+  name = "FAQ"
   URL = "faq"
 
   [[languages.ja.menu.main]]
-  parent = "Plus"
-  name = "Tarification"
+  parent = "もっと見る"
+  name = "価格"
   URL = "pricing"
 
   [[languages.ja.menu.main]]
-  parent = "Plus"
-  name = "Service"
+  parent = "もっと見る"
+  name = "サービス"
   URL = "service"
 
 [[languages.ja.menu.main]]
-name = "Contact"
+name = "お問い合わせ"
 URL = "contact"
 weight = 6
 
 # Footer menu
 [[languages.ja.menu.footer]]
-name = "À propos"
+name = "会社情報"
 URL = "about"
 weight = 1
 
 [[languages.ja.menu.footer]]
-name = "Projet"
+name = "プロジェクト"
 URL = "project"
 weight = 2
 
 [[languages.ja.menu.footer]]
-name = "Service"
+name = "サービス"
 URL = "service"
 weight = 3
 
 [[languages.ja.menu.footer]]
-name = "Tarification"
+name = "価格"
 URL = "pricing"
 weight = 4
 
 [[languages.ja.menu.footer]]
-name = "Questions fréquentes"
+name = "FAQ"
 URL = "faq"
 weight = 5
 
 [[languages.ja.menu.footer]]
-name = "Contact"
+name = "お問い合わせ"
 URL = "contact"
 weight = 6
 
@@ -344,17 +344,17 @@ copyright = "Copyright &copy; 2021 [Cymosoft](https://cymosoft.com). All rights 
 
 # Main menu
 [[languages.vi.menu.main]]
-name = "Startseite"
+name = "Trang chủ"
 URL = "/"
 weight = 1
 
 [[languages.vi.menu.main]]
-name = "Über"
+name = "Về chúng tôi"
 URL = "about"
 weight = 2
 
 [[languages.vi.menu.main]]
-name = "Projekt"
+name = "Dự án"
 URL = "project"
 weight = 3
 
@@ -364,57 +364,57 @@ URL = "blog"
 weight = 4
 
 [[languages.vi.menu.main]]
-name = "Mehr"
+name = "Thêm"
 hasChildren = true
 weight = 5
 
   [[languages.vi.menu.main]]
-  parent = "Mehr"
-  name = "Häufige Fragen"
+  parent = "Thêm"
+  name = "FAQ"
   URL = "faq"
 
   [[languages.vi.menu.main]]
-  parent = "Mehr"
-  name = "Preise"
+  parent = "Thêm"
+  name = "Giá"
   URL = "pricing"
 
   [[languages.vi.menu.main]]
-  parent = "Mehr"
-  name = "Dienstleistung"
+  parent = "Thêm"
+  name = "Dịch vụ"
   URL = "service"
 
 [[languages.vi.menu.main]]
-name = "Kontakt"
+name = "Liên lạc"
 URL = "contact"
 weight = 6
 
 # Footer menu
 [[languages.vi.menu.footer]]
-name = "Über"
+name = "Về chúng tôi"
 URL = "about"
 weight = 1
 
 [[languages.vi.menu.footer]]
-name = "Projekt"
+name = "Dự án"
 URL = "project"
 weight = 2
 
 [[languages.vi.menu.footer]]
-name = "Dienstleistung"
+name = "Dịch vụ"
 URL = "service"
 weight = 3
 
 [[languages.vi.menu.footer]]
-name = "Preise"
+name = "Giá"
 URL = "pricing"
 weight = 4
 
 [[languages.vi.menu.footer]]
-name = "Häufige Fragen"
+name = "FAQ"
 URL = "faq"
 weight = 5
 
 [[languages.vi.menu.footer]]
-name = "Kontakt"
+name = "Liên lạc"
 URL = "contact"
 weight = 6
