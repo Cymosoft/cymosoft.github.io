@@ -39,7 +39,7 @@ unsafe = true
 
 ################################# Default parameters ##########################
 [params]
-logo = "images/logo.svg"
+logo = "images/logo.png"
 logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 title = "Cymosoft"
