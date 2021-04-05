@@ -1,6 +1,6 @@
 baseURL = "https://cymosoft.com/"
 languageCode = "en-us"
-title = "Cymosoft | Software Solution"
+title = "Cymosoft | A Software Solution Company"
 theme = "airspace-hugo"
 
 ################################# Basic configuration #########################
@@ -41,7 +41,7 @@ unsafe = true
 [params]
 favicon = "images/favicon.png"
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 title = "Cymosoft"
 description = "This is meta description"
@@ -112,7 +112,7 @@ link = "#"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://twitter.com/cymosoft"
 
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
