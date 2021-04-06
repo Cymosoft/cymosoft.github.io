@@ -9,7 +9,7 @@ theme = "airspace-hugo"
 title = "Cymosoft | A Software Solution Company"
 [languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 [Cymosoft](https://cymosoft.com). All Rights Reserved."
+copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021"
 languageCode = "en-US"
 languageName = "English"
 weight = 1
