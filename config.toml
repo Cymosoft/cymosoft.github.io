@@ -141,7 +141,7 @@ name = "お問い合わせ"
 weight = 6
 [languages.vi]
 contentDir = "content/vietnamese"
-copyright = "Copyright &copy; 2021 [Cymosoft](https://cymosoft.com). All rights reserved."
+copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021"
 languageCode = "vi-VN"
 languageName = "Tiếng Việt"
 weight = 3
