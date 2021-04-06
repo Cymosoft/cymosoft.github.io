@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/japanese
+  label: Japanese Content
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/english
+  label: English Content
+  create: all
+  match: "**/*"
+- type: directory
   path: content/vietnamese
   label: Vietnamese Content
   create: all
