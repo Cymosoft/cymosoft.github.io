@@ -1,7 +1,7 @@
 ---
 title: "Drop Us A Note"
 description: ""
-bg_image: "images/featue-bg.jpg"
+#bg_image: "images/featue-bg.jpg"
 layout: "contact"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Service"
 description: ""
-bg_image: "images/featue-bg.jpg"
+#bg_image: "images/featue-bg.jpg"
 layout: "service"
 draft: false
 

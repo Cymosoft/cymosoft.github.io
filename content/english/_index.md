@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  #bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "A Software Solution Company"
   content: "We love the work we do. We work closely with our clients to deliver the best possible solutions for their needs."
@@ -48,7 +48,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  #bg_image: "images/call-to-action-bg.jpg"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
