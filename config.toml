@@ -219,7 +219,7 @@ startLevel = 2
 home = ["HTML"]
 [params]
 author = "Cymosoft"
-description = "This is meta description"
+description = "Cymosoft - A software company"
 favicon = "images/favicon.png"
 images = ["images/logo.png"]
 logo = "images/logo.png"
@@ -227,15 +227,15 @@ logo_width = "150px"
 title = "Cymosoft"
 [params.contact]
 address_descriptors = true
-email = "contact@cymosoft.com"
+email = "cymosoft@gmail.com"
 location = "Hanoi, Vietnam"
-phone = "098-1234-5678"
+phone = "+84945082281"
 [params.contact.form]
 action = "#"
 enable = true
 use_netlify = false
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.gmap]
 enable = true
@@ -278,18 +278,18 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
+# [[params.social]]
+# icon = "ion-social-googleplus-outline"
+# link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+# [[params.social]]
+# icon = "ion-social-pinterest-outline"
+# link = "#"
+# [[params.social]]
+# icon = "ion-social-dribbble-outline"
+# link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/cymosoft"

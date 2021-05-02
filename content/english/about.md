@@ -1,6 +1,6 @@
 ---
 title: "About Our Company"
-description: "this is meta description"
+description: ""
 bg_image: "images/featue-bg.jpg"
 layout: "about"
 draft: false
@@ -11,52 +11,47 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-          
-          
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  content : ""
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
-  funfacts:
-  # funfacts loop
-  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Completed Projects"
-    count : "349"
-    
-  # funfacts loop
-  - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Lines Of Code"
-    count : "35000"
-    
-  # funfacts loop
-  - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "70"
-    
-  # funfacts loop
-  - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "10"
-    
-  # funfacts loop
-  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "75"
-    
-  # funfacts loop
-  - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "20"
+#  funfacts:
+#  # funfacts loop
+#  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#    name : "Completed Projects"
+#    count : "349"
+#    
+#  # funfacts loop
+#  - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#    name : "Lines Of Code"
+#    count : "35000"
+#    
+#  # funfacts loop
+#  - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#    name : "Satisfied Customer"
+#    count : "70"
+#    
+#  # funfacts loop
+#  - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#    name : "Awards Winner"
+#    count : "10"
+#    
+#  # funfacts loop
+#  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#    name : "Satisfied Customer"
+#    count : "75"
+#    
+#  # funfacts loop
+#  - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#    name : "Awards Winner"
+#    count : "20"
     
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
   # feature item loop
@@ -92,11 +87,11 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
-  enable : true
+  enable : false
   tabs:
   # tab item loop
   - name : "Vision"
