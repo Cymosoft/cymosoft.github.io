@@ -1,5 +1,5 @@
 baseURL = "https://cymosoft.com/"
-disableLanguages = []
+disableLanguages = ["vi", "ja"]
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
@@ -17,22 +17,23 @@ weight = 1
 URL = "about"
 name = "About"
 weight = 1
-[[languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
+# [[languages.en.menu.footer]]
+# URL = "project"
+# name = "Project"
+# weight = 2
 [[languages.en.menu.footer]]
 URL = "service"
 name = "Service"
 weight = 3
-[[languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+# [[languages.en.menu.footer]]
+# disable = true
+# URL = "pricing"
+# name = "Pricing"
+# weight = 4
+# [[languages.en.menu.footer]]
+# URL = "faq"
+# name = "FAQ"
+# weight = 5
 [[languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -45,26 +46,26 @@ weight = 1
 URL = "about"
 name = "About"
 weight = 2
-[[languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+# [[languages.en.menu.main]]
+# URL = "project"
+# name = "Project"
+# weight = 3
+# [[languages.en.menu.main]]
+# URL = "blog"
+# name = "Blog"
+# weight = 4
 [[languages.en.menu.main]]
 hasChildren = true
 name = "More"
 weight = 5
-[[languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "More"
-[[languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "More"
+# [[languages.en.menu.main]]
+# URL = "faq"
+# name = "FAQ"
+# parent = "More"
+# [[languages.en.menu.main]]
+# URL = "pricing"
+# name = "Pricing"
+# parent = "More"
 [[languages.en.menu.main]]
 URL = "service"
 name = "Service"
@@ -73,6 +74,7 @@ parent = "More"
 URL = "contact"
 name = "Contact"
 weight = 6
+
 [languages.ja]
 contentDir = "content/japanese"
 copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021"
@@ -205,6 +207,8 @@ parent = "Thêm"
 URL = "contact"
 name = "Liên lạc"
 weight = 6
+
+
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
