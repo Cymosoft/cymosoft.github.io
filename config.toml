@@ -195,7 +195,7 @@ logo_width = "150px"
 title = "Cymosoft"
 [params.contact]
 address_descriptors = true
-email = "Gmail: cymosoft"
+email = "contact[at]cymosoft.com"
 location = "Hanoi, Vietnam"
 phone = ""
 [params.contact.form]
