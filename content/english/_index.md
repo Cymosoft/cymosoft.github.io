@@ -43,7 +43,7 @@ service:
 cta:
   enable: true
   title: We design delightful digital experiences.
-  content: 'Read more about what we do and our philosophy of system design. '
+  content: Read more about what we do and our philosophy of system design
   button:
     enable: true
     label: Tell Us Your Story
