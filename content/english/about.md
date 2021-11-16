@@ -45,7 +45,7 @@ mission_vision:
   enable: true
   tabs:
   - name: Vision
-    content: Become a leading innovative company.
+    content: Become a leading innovative company
   - name: Mission
     content: Bring values to the digitalized world adapting with dramatic changes
 cta:
