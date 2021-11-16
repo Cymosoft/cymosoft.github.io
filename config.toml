@@ -197,7 +197,7 @@ title = "Cymosoft"
 address_descriptors = true
 email = "contact [at] cymosoft.com"
 location = "Hanoi, Vietnam"
-phone = ""
+phone = "(+84) 096 641 7296"
 [params.contact.form]
 action = "#"
 enable = true
