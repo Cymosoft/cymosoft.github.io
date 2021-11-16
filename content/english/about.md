@@ -1,6 +1,7 @@
 ---
 title: About Our Company
-description: 'Company Name: Cymosoft,. JSC'
+description: 'Company Name: Cymosoft,. JSC<br>Address: A6-TT2 Van Quan Urban Area,
+  Hadong District, Hanoi, Vietnam'
 layout: about
 about:
   enable: true
