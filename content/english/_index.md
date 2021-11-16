@@ -4,7 +4,7 @@ banner:
   bg_overlay: true
   title: A Software Solution Company
   content: We work closely with our clients to deliver the best possible solutions
-    for their needs.
+    for their needs
   button:
     enable: false
     label: Discover Our Project
