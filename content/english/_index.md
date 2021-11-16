@@ -43,9 +43,7 @@ service:
 cta:
   enable: true
   title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  content: 'Read more about what we do and our philosophy of system design. '
   button:
     enable: true
     label: Tell Us Your Story
