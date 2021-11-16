@@ -1,6 +1,6 @@
 ---
 title: About Our Company
-description: 'Company Name: Cymosoft,. JSC<br>Founded: June 2021'
+description: 'Company Name: Cymosoft,. JSC'
 layout: about
 about:
   enable: true
