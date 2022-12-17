@@ -197,7 +197,7 @@ title = "Cymosoft"
 address_descriptors = true
 email = "contact [at] cymosoft.com"
 location = "A6-TT2 Van Quan Urban Area, Hadong District, Hanoi, Vietnam"
-phone = "(+84) 096 641 7296"
+phone = "(+84) 0388827518"
 [params.contact.form]
 action = "#"
 enable = true
