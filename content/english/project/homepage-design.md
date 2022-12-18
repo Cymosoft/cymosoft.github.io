@@ -1,27 +1,26 @@
 +++
 bg_image = "images/featue-bg.jpg"
-category = ["web development", "hybrid app development", "business application development"]
-description = "this is meta description"
-draft = true
-image = "uploads/team-todo-logo.jpg"
+category = ["web development"]
+description = ""
+image = "uploads/cakephp-logo.png"
 title = "Homepage Design"
 [[information]]
-info = "Actuarise"
+info = "Japanese Client"
 label = "Client"
 [[information]]
-info = "System Design & Delivery"
+info = "Homepage Design & Delivery"
 label = "What We Did"
 [[information]]
-info = "AWS"
+info = "Photoshop, Illustrator, VSCode"
 label = "Tools Used"
 [[information]]
-info = "17th December 2021"
+info = "11th May 2022"
 label = "Completed on"
 [[information]]
-info = "AWS / RAILS / HTML5 / TYPESCRIPT / CSS3"
+info = "AWS / HTML5 / Javascript / CSS3"
 label = "Skills"
 [[information]]
-info = "Actuarise Co,. Ltd"
+info = "Japanese Client"
 label = "Client"
 
 +++
