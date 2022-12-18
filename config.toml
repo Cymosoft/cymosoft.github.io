@@ -9,7 +9,7 @@ theme = "airspace-hugo"
 title = "Cymosoft | A Software Solution Company"
 [languages.en]
 contentDir = "content/english"
-copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021"
+copyright = "&copy; [Cymosoft](https://cymosoft.com) 2022"
 languageCode = "en-US"
 languageName = "English"
 weight = 1
@@ -47,7 +47,7 @@ name = "Contact"
 weight = 6
 [languages.ja]
 contentDir = "content/japanese"
-copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021"
+copyright = "&copy; [Cymosoft](https://cymosoft.com) 2022"
 languageCode = "ja-JP"
 languageName = "日本語"
 weight = "2"
@@ -113,7 +113,7 @@ name = "お問い合わせ"
 weight = 6
 [languages.vi]
 contentDir = "content/vietnamese"
-copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021"
+copyright = "&copy; [Cymosoft](https://cymosoft.com) 2022"
 languageCode = "vi-VN"
 languageName = "Tiếng Việt"
 weight = 3
