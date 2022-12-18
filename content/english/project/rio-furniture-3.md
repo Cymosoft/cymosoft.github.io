@@ -1,22 +1,24 @@
 ---
 title: Task Management
 description: this is meta description
-image: images/portfolio/work3.jpg
+image: uploads/team-todo-logo.jpg
 bg_image: images/featue-bg.jpg
-category: Video
+category:
+- web development
+- hybrid app development
+- business application development
 information:
 - label: Client
-  info: Jannie Kelonsky
+  info: Actuarise
 - label: What We Did
-  info: Website Redesign
+  info: System Design & Delivery
 - label: Tools Used
-  info: Photoshop,Illustrator
+  info: AWS
 - label: Completed on
-  info: 17th March 2014
+  info: 17th December 2021
 - label: Skills
-  info: HTML5 / PHP / CSS3
+  info: AWS / RAILS / HTML5 / TYPESCRIPT / CSS3
 - label: Client
-  info: Jannie Kelonsky
-draft: true
+  info: Actuarise Co,. Ltd
 
 ---
