@@ -33,6 +33,7 @@ portfolio:
     link: project
 service:
   enable: true
+  title: Our Service
 cta:
   enable: true
   title: We design delightful digital experiences
