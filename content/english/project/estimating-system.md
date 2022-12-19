@@ -2,7 +2,6 @@
 bg_image = "images/featue-bg.jpg"
 category = ["web development", "business application development"]
 description = "The system which provide estimating result for construction materials"
-draft = true
 image = "uploads/estimate-logo.jpg"
 title = "Estimating System"
 [[information]]
