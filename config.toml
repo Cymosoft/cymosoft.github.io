@@ -1,5 +1,5 @@
 baseURL = "https://cymosoft.com/"
-disableLanguages = []
+disableLanguages = ["vi", "ja"]
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
