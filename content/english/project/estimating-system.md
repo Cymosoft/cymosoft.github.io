@@ -17,7 +17,7 @@ label = "Tools Used"
 info = "22th August 2022"
 label = "Completed on"
 [[information]]
-info = "JAVA / HTML5 / ANGULAR / CSS3"
+info = "JAVA / ANGULAR"
 label = "Skills"
 [[information]]
 info = "Japanese Client"
