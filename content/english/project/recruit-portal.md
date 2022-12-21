@@ -18,10 +18,10 @@ label = "Tools Used"
 info = "1th May 2021"
 label = "Completed on"
 [[information]]
-info = "AWS / RAILS / HTML5 / TYPESCRIPT / CSS3"
+info = "AWS / PHP / HTML5 / TYPESCRIPT / CSS3"
 label = "Skills"
 [[information]]
-info = "Actuarise Co,. Ltd"
+info = "A Japanese Client"
 label = "Client"
 
 +++
