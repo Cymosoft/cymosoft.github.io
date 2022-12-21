@@ -1,6 +1,6 @@
 +++
 bg_image = "images/featue-bg.jpg"
-category = ["web development", "business application development"]
+category = []
 description = "The system which provide estimating result for construction materials"
 image = "uploads/estimate-logo.jpg"
 title = "Estimating System"
@@ -11,7 +11,7 @@ label = "Client"
 info = "System Design & Delivery"
 label = "What We Did"
 [[information]]
-info = ""
+info = "AWS"
 label = "Tools Used"
 [[information]]
 info = "22th August 2022"
