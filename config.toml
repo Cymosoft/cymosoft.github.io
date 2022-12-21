@@ -187,7 +187,7 @@ startLevel = 2
 home = ["HTML"]
 [params]
 author = "Cymosoft"
-description = "Cymosoft - A software company"
+description = "Cymosoft - Technology Consultant"
 favicon = "images/favicon.png"
 images = ["images/logo.png"]
 logo = "images/logo.png"
