@@ -6,7 +6,7 @@ languageCode = "en-us"
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Cymosoft | A Software Solution Company"
+title = "Cymosoft | Technology Consultant"
 [languages.en]
 contentDir = "content/english"
 copyright = "&copy; [Cymosoft](https://cymosoft.com) 2022"
