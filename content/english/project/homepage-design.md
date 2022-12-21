@@ -2,7 +2,7 @@
 bg_image = "images/featue-bg.jpg"
 category = []
 description = "Multi-device support with Responsive Design"
-image = "uploads/home-page-logo.png"
+image = "uploads/home-page-logo.jpg"
 title = "Homepage Design"
 [[information]]
 info = "Japanese Client"
