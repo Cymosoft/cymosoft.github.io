@@ -34,17 +34,13 @@ URL = "about"
 name = "About"
 weight = 2
 [[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = 5
-[[languages.en.menu.main]]
 URL = "service"
 name = "Service"
-parent = "More"
+weight = 3
 [[languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 4
 [languages.ja]
 contentDir = "content/japanese"
 copyright = "&copy; [Cymosoft](https://cymosoft.com) 2022"
@@ -254,4 +250,4 @@ icon = "ion-social-twitter-outline"
 link = "https://twitter.com/cymosoft"
 [[params.social]]
 icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://facebook.com/cymosoft"
