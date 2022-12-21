@@ -3,10 +3,7 @@ title: Task Management
 description: With Todo, Messaging, File Management
 image: uploads/team-todo-logo.jpg
 bg_image: images/featue-bg.jpg
-category:
-- web development
-- hybrid app development
-- business application development
+category: []
 information:
 - label: Client
   info: Actuarise
