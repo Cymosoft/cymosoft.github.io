@@ -15,7 +15,7 @@ label = "What We Did"
 info = "AWS, Docker"
 label = "Tools Used"
 [[information]]
-info = "17th December 2021"
+info = "1th May 2021"
 label = "Completed on"
 [[information]]
 info = "AWS / RAILS / HTML5 / TYPESCRIPT / CSS3"
