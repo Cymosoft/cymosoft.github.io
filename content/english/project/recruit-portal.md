@@ -1,18 +1,18 @@
 +++
 bg_image = "images/featue-bg.jpg"
 category = []
-description = "With Todo, Messaging, File Management"
+description = "Recruitment management system"
 draft = true
-image = "uploads/team-todo-logo.jpg"
+image = "uploads/recuitment-system-logo.jpg"
 title = "Recruit Portal"
 [[information]]
-info = "Actuarise"
+info = "A Japanese Client"
 label = "Client"
 [[information]]
 info = "System Design & Delivery"
 label = "What We Did"
 [[information]]
-info = "AWS"
+info = "AWS, Docker"
 label = "Tools Used"
 [[information]]
 info = "17th December 2021"
