@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_overlay: true
-  title: A Software Solution Company
+  title: TECHNOLOGY CONSULTANT
   content: We work closely with our clients to deliver the best possible solutions
     for their needs
   button:
