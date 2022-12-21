@@ -1,6 +1,6 @@
 +++
 bg_image = "images/featue-bg.jpg"
-category = ["web development", "web design"]
+category = []
 description = "Multi-device support with Responsive Design"
 image = "uploads/cakephp-logo.png"
 title = "Homepage Design"
