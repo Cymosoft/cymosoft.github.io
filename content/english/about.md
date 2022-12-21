@@ -45,7 +45,9 @@ mission_vision:
   enable: true
   tabs:
   - name: Vision
-    content: Become a leading innovative company
+    content: 'We strive to make custom software projects affordable and predictable
+      by being smart about the 4 pillars of software development: Team, Tools, Process
+      and Features.'
   - name: Mission
     content: Bring values to the digitalized world adapting with dramatic changes
 cta:
