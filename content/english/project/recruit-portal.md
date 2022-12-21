@@ -2,7 +2,6 @@
 bg_image = "images/featue-bg.jpg"
 category = []
 description = "Recruitment management system"
-draft = true
 image = "uploads/recuitment-system-logo.jpg"
 title = "Recruit Portal"
 [[information]]
