@@ -15,7 +15,5 @@ information:
   info: 17th December 2021
 - label: Skills
   info: AWS / RAILS / HTML5 / TYPESCRIPT / CSS3
-- label: Client
-  info: Actuarise Co,. Ltd
 
 ---
