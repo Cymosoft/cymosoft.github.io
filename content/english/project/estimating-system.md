@@ -19,8 +19,5 @@ label = "Completed on"
 [[information]]
 info = "JAVA / ANGULAR"
 label = "Skills"
-[[information]]
-info = "Japanese Client"
-label = "Client"
 
 +++
