@@ -4,14 +4,14 @@ service:
   title : Our Services
   service_item :
       # feature item loop
+    - name : IT Consulting
+      icon : ion-ios-people # themify icon pack : https://themify.me/themify-icons
+      content : Offer tailored solutions to meet your business needs
+
+      # feature item loop
     - name : Web Development
       icon : ion-social-html5 # themify icon pack : https://themify.me/themify-icons
       content : CakePHP, Laravel, VueJS, Angular, ReactJS
-      
-      # feature item loop
-    - name : IT Consulting
-      icon : ion-ios-people # themify icon pack : https://themify.me/themify-icons
-      content : Offshore Development
 
       # feature item loop
     - name : Mobile app Development

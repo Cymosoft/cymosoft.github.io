@@ -9,10 +9,10 @@ feature:
       # feature item loop
     - title : IT Consulting
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Offshore Development
+      content : Our expert IT consulting services offer tailored solutions to meet your business needs, improve efficiency, and optimize your technology infrastructure for maximum productivity and growth.
 
       # feature item loop
     - title : Ofshore Development
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : iOS, Android and Hybrid app
+      content : Our offshore development services provide you with access to a highly skilled and cost-effective talent pool to build your software solutions while maintaining high-quality standards and timely delivery.
       

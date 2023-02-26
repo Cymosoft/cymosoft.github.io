@@ -16,15 +16,15 @@ languageCode = "en-US"
 languageName = "English"
 weight = 1
 [[languages.en.menu.footer]]
-URL = "about"
+URL = "#about"
 name = "About"
 weight = 1
 [[languages.en.menu.footer]]
-URL = "service"
+URL = "#service"
 name = "Service"
 weight = 3
 [[languages.en.menu.footer]]
-URL = "contact"
+URL = "#contact"
 name = "Contact"
 weight = 6
 [[languages.en.menu.main]]
@@ -32,19 +32,19 @@ URL = "/"
 name = "Home"
 weight = 1
 [[languages.en.menu.main]]
-URL = "about"
+URL = "#about"
 name = "About"
 weight = 2
 [[languages.en.menu.main]]
-URL = "service"
+URL = "#service"
 name = "Service"
 weight = 3
 [[languages.en.menu.main]]
-URL = "project"
+URL = "#project"
 name = "Project"
 weight = 4
 [[languages.en.menu.main]]
-URL = "contact"
+URL = "#contact"
 name = "Contact"
 weight = 5
 [languages.ja]
@@ -54,27 +54,27 @@ languageCode = "ja-JP"
 languageName = "日本語"
 weight = "2"
 [[languages.ja.menu.footer]]
-URL = "about"
+URL = "#about"
 name = "会社情報"
 weight = 1
 [[languages.ja.menu.footer]]
-URL = "project"
+URL = "#project"
 name = "プロジェクト"
 weight = 2
 [[languages.ja.menu.footer]]
-URL = "service"
+URL = "#service"
 name = "サービス"
 weight = 3
 [[languages.ja.menu.footer]]
-URL = "pricing"
+URL = "#pricing"
 name = "価格"
 weight = 4
 [[languages.ja.menu.footer]]
-URL = "faq"
+URL = "#faq"
 name = "FAQ"
 weight = 5
 [[languages.ja.menu.footer]]
-URL = "contact"
+URL = "#contact"
 name = "お問い合わせ"
 weight = 6
 [[languages.ja.menu.main]]
@@ -82,15 +82,15 @@ URL = "/"
 name = "ホーム"
 weight = 1
 [[languages.ja.menu.main]]
-URL = "about"
+URL = "#about"
 name = "会社情報"
 weight = 2
 [[languages.ja.menu.main]]
-URL = "project"
+URL = "#project"
 name = "プロジェクト"
 weight = 3
 [[languages.ja.menu.main]]
-URL = "blog"
+URL = "#blog"
 name = "ブログ"
 weight = 4
 [[languages.ja.menu.main]]
@@ -98,19 +98,19 @@ hasChildren = true
 name = "もっと見る"
 weight = 5
 [[languages.ja.menu.main]]
-URL = "faq"
+URL = "#faq"
 name = "FAQ"
 parent = "もっと見る"
 [[languages.ja.menu.main]]
-URL = "pricing"
+URL = "#pricing"
 name = "価格"
 parent = "もっと見る"
 [[languages.ja.menu.main]]
-URL = "service"
+URL = "#service"
 name = "サービス"
 parent = "もっと見る"
 [[languages.ja.menu.main]]
-URL = "contact"
+URL = "#contact"
 name = "お問い合わせ"
 weight = 6
 [languages.vi]
@@ -120,27 +120,27 @@ languageCode = "vi-VN"
 languageName = "Tiếng Việt"
 weight = 3
 [[languages.vi.menu.footer]]
-URL = "about"
+URL = "#about"
 name = "Về chúng tôi"
 weight = 1
 [[languages.vi.menu.footer]]
-URL = "project"
+URL = "#project"
 name = "Dự án"
 weight = 2
 [[languages.vi.menu.footer]]
-URL = "service"
+URL = "#service"
 name = "Dịch vụ"
 weight = 3
 [[languages.vi.menu.footer]]
-URL = "pricing"
+URL = "#pricing"
 name = "Giá"
 weight = 4
 [[languages.vi.menu.footer]]
-URL = "faq"
+URL = "#faq"
 name = "FAQ"
 weight = 5
 [[languages.vi.menu.footer]]
-URL = "contact"
+URL = "#contact"
 name = "Liên lạc"
 weight = 6
 [[languages.vi.menu.main]]
@@ -148,15 +148,15 @@ URL = "/"
 name = "Trang chủ"
 weight = 1
 [[languages.vi.menu.main]]
-URL = "about"
+URL = "#about"
 name = "Về chúng tôi"
 weight = 2
 [[languages.vi.menu.main]]
-URL = "project"
+URL = "#project"
 name = "Dự án"
 weight = 3
 [[languages.vi.menu.main]]
-URL = "blog"
+URL = "#blog"
 name = "Blog"
 weight = 4
 [[languages.vi.menu.main]]
@@ -164,19 +164,19 @@ hasChildren = true
 name = "Thêm"
 weight = 5
 [[languages.vi.menu.main]]
-URL = "faq"
+URL = "#faq"
 name = "FAQ"
 parent = "Thêm"
 [[languages.vi.menu.main]]
-URL = "pricing"
+URL = "#pricing"
 name = "Giá"
 parent = "Thêm"
 [[languages.vi.menu.main]]
-URL = "service"
+URL = "#service"
 name = "Dịch vụ"
 parent = "Thêm"
 [[languages.vi.menu.main]]
-URL = "contact"
+URL = "#contact"
 name = "Liên lạc"
 weight = 6
 [markup.goldmark.renderer]
