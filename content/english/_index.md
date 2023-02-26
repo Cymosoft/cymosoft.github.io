@@ -3,8 +3,11 @@ banner:
   enable: true
   bg_overlay: true
   title: TECHNOLOGY CONSULTANT
-  content: We work closely with our clients to deliver the best possible solutions
-    for their needs
+  content: At Cymosoft,. JSC, we believe in a collaborative approach to software development.
+    We work closely with our clients to understand their business needs and goals,
+    and then use that knowledge to design and develop solutions that meet their specific
+    requirements. Our process is transparent, agile, and focused on delivering value
+    to our clients at every stage of the project.
   button:
     enable: true
     label: Discover Our Project
