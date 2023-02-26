@@ -8,7 +8,9 @@
 .portfolio-block:before {
   opacity: 1;
 }
-@media (max-width: 480px)
-.hero-area .block h1 {
+
+@media(max-width: 480px) {
+  .hero-area .block h1 {
     font-size: 55px !important;
+  }
 }
