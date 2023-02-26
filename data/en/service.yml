@@ -5,20 +5,20 @@ service:
   service_item :
       # feature item loop
     - name : IT Consulting
-      icon : ion-ios-people # themify icon pack : https://themify.me/themify-icons
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
       content : Offer tailored solutions to meet your business needs
 
       # feature item loop
     - name : Web Development
-      icon : ion-social-html5 # themify icon pack : https://themify.me/themify-icons
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : Support popular frameworks such as CakePHP, Laravel, VueJS, Angular, ReactJS
 
       # feature item loop
     - name : Mobile app Development
-      icon : ion-iphone # themify icon pack : https://themify.me/themify-icons
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       content : Support common mobile OS such as iOS, Android and Hybrid app
       
       # feature item loop
     - name : Cloud Computing
-      icon : ion-cloud # themify icon pack : https://themify.me/themify-icons
+      icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
       content : Support common cloud services such as AWS, Azure and GCP
