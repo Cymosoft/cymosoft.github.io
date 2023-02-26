@@ -5,8 +5,8 @@
 .portfolio-block .caption .search-icon {
   display: none;
 }
-.portfolio-block {
-  background: #fff;
+.portfolio-block:before {
+  opacity: 1;
 }
 @media (max-width: 480px)
 .hero-area .block h1 {
