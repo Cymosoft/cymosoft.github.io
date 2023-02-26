@@ -1,10 +1,13 @@
 ---
 title: Service
-description: At Cymosoft,. JSC, we believe in a collaborative approach to software
-  development. We work closely with our clients to understand their business needs
-  and goals, and then use that knowledge to design and develop solutions that meet
-  their specific requirements. Our process is transparent, agile, and focused on delivering
-  value to our clients at every stage of the project.
+description: 'Why Choose Us: <br>Expertise: Our team has years of experience in software
+  development and is always up-to-date with the latest technologies and trends. <br>Quality:
+  We are committed to delivering high-quality solutions that meet our clients'' needs
+  and exceed their expectations. <br>Collaboration: We work closely with our clients
+  throughout the project to ensure their input is heard and their goals are achieved.
+  <br>Support: We provide ongoing support to ensure our clients'' systems are running
+  smoothly and their users are satisfied. <br>Cost-effective: We offer competitive
+  pricing without sacrificing quality or service.'
 layout: service
 about:
   enable: false
