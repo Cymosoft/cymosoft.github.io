@@ -1,0 +1,24 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+      # feature item loop
+    - name : Web Development
+      icon : ion-social-html5 # themify icon pack : https://themify.me/themify-icons
+      content : CakePHP, Laravel, VueJS, Angular, ReactJS
+      
+      # feature item loop
+    - name : IT Consulting
+      icon : ion-ios-people # themify icon pack : https://themify.me/themify-icons
+      content : Offshore Development
+
+      # feature item loop
+    - name : Mobile app Development
+      icon : ion-iphone # themify icon pack : https://themify.me/themify-icons
+      content : iOS, Android and Hybrid app
+      
+      # feature item loop
+    - name : ion-cloud
+      icon : ion-cloud # themify icon pack : https://themify.me/themify-icons
+      content : AWS, Azure and GCP

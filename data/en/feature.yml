@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re a software development company.
+  content :
+  feature_item : 
+      # feature item loop
+    - title : Web Development
+      icon : ion-social-html5 # themify icon pack : https://themify.me/themify-icons
+      content : CakePHP, Laravel, VueJS, Angular, ReactJS
+      
+      # feature item loop
+    - title : IT Consulting
+      icon : ion-ios-people # themify icon pack : https://themify.me/themify-icons
+      content : Offshore Development
+
+      # feature item loop
+    - title : Mobile app Development
+      icon : ion-iphone # themify icon pack : https://themify.me/themify-icons
+      content : iOS, Android and Hybrid app
+      
+      # feature item loop
+    - title : ion-cloud
+      icon : ion-cloud # themify icon pack : https://themify.me/themify-icons
+      content : AWS, Azure and GCP
