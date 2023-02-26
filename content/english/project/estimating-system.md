@@ -1,8 +1,10 @@
-+++
-bg_image = "images/featue-bg.jpg"
-category = []
-description = "The system which provide estimating result for construction materials"
-image = "uploads/cymosoft400x400.png"
+---
+title: "Estimating System"
+image: ""
+email: ""
+---
+
+The system which provide estimating result for construction materials
 title = "Estimating System"
 [[information]]
 info = "Japanse client"
@@ -19,5 +21,3 @@ label = "Completed on"
 [[information]]
 info = "JAVA / ANGULAR"
 label = "Skills"
-
-+++

@@ -9,27 +9,27 @@ portfolio:
       image_webp : images/portfolio/work1.jpg
       categories : ["Outsourcing"]
       content : Provide estimating result for construction materials
-      link : 
+      link : /project/estimating-system.html
     # portfolio item loop
     - name : Homepage Design
       image : images/portfolio/work2.jpg
       image_webp : images/portfolio/work2.jpg
       categories : ["Web Development"]
-      content : Multi-device support with Responsive Design
-      link : 
+      content : Provide Multi-device support with Responsive Design
+      link : /project/homepage-design.html
 
     # portfolio item loop
     - name : Recruitment management system
       image : images/portfolio/work3.jpg
       image_webp : images/portfolio/work3.jpg
       categories : ["Outsourcing"]
-      content : Recruit Portal
-      link : 
+      content : Provide Recruit Portal
+      link : /project/recruit-portal.html
 
     # portfolio item loop
     - name : Task Management
       image : images/portfolio/work4.jpg
       image_webp : images/portfolio/work4.jpg
       categories : ["Outsourcing"]
-      content : With Todo, Messaging, File Management
-      link : 
+      content : Provide Todo, Messaging and File Management
+      link : /project/task-management.html
