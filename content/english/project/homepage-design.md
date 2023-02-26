@@ -2,7 +2,7 @@
 bg_image = "images/featue-bg.jpg"
 category = []
 description = "Multi-device support with Responsive Design"
-image = ""
+image = "images/cymosoft400x400.png"
 title = "Homepage Design"
 [[information]]
 info = "Japanese Client"
