@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : 
+  content : Get in touch with us now to learn more.
 
   # Contact details
   contact_list:
@@ -12,9 +12,6 @@ contact:
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: (+84) 0388827518"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: contact@cymosoft.com"

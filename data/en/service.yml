@@ -19,6 +19,6 @@ service:
       content : iOS, Android and Hybrid app
       
       # feature item loop
-    - name : ion-cloud
+    - name : Cloud Computing
       icon : ion-cloud # themify icon pack : https://themify.me/themify-icons
       content : AWS, Azure and GCP
