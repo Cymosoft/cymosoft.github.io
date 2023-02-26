@@ -2,7 +2,7 @@
 bg_image = "images/featue-bg.jpg"
 category = []
 description = "The system which provide estimating result for construction materials"
-image = "images/cymosoft400x400.png"
+image = "uploads/cymosoft400x400.png"
 title = "Estimating System"
 [[information]]
 info = "Japanse client"
