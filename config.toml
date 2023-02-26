@@ -244,7 +244,7 @@ link = "plugins/google-map/map.js"
 
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/favicon.png"
 
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
