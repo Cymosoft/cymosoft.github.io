@@ -5,7 +5,10 @@
 .portfolio-block .caption .search-icon {
   display: none;
 }
+.portfolio-block {
+  background: #fff;
+}
 @media (max-width: 480px)
 .hero-area .block h1 {
-    font-size: 55px;
+    font-size: 55px !important;
 }
