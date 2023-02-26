@@ -1,13 +1,6 @@
 ---
 title: Service
-description: 'Why Choose Us: <br>Expertise: Our team has years of experience in software
-  development and is always up-to-date with the latest technologies and trends. <br>Quality:
-  We are committed to delivering high-quality solutions that meet our clients'' needs
-  and exceed their expectations. <br>Collaboration: We work closely with our clients
-  throughout the project to ensure their input is heard and their goals are achieved.
-  <br>Support: We provide ongoing support to ensure our clients'' systems are running
-  smoothly and their users are satisfied. <br>Cost-effective: We offer competitive
-  pricing without sacrificing quality or service.'
+description: ''
 layout: service
 about:
   enable: false
