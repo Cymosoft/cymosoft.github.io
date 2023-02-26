@@ -1,0 +1,7 @@
+.portfolio-block .caption {
+  opacity: 1;
+  top: 55%;
+}
+.portfolio-block .caption .search-icon {
+  display: none;
+}

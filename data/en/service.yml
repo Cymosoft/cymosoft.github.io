@@ -11,14 +11,14 @@ service:
       # feature item loop
     - name : Web Development
       icon : ion-social-html5 # themify icon pack : https://themify.me/themify-icons
-      content : CakePHP, Laravel, VueJS, Angular, ReactJS
+      content : Support popular frameworks such as CakePHP, Laravel, VueJS, Angular, ReactJS
 
       # feature item loop
     - name : Mobile app Development
       icon : ion-iphone # themify icon pack : https://themify.me/themify-icons
-      content : iOS, Android and Hybrid app
+      content : Support common mobile OS such as iOS, Android and Hybrid app
       
       # feature item loop
     - name : Cloud Computing
       icon : ion-cloud # themify icon pack : https://themify.me/themify-icons
-      content : AWS, Azure and GCP
+      content : Support common cloud services such as AWS, Azure and GCP
