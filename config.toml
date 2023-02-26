@@ -20,8 +20,8 @@ URL = "#about"
 name = "About"
 weight = 1
 [[languages.en.menu.footer]]
-URL = "#service"
-name = "Service"
+URL = "#services"
+name = "Services"
 weight = 3
 [[languages.en.menu.footer]]
 URL = "#contact"
@@ -36,12 +36,12 @@ URL = "#about"
 name = "About"
 weight = 2
 [[languages.en.menu.main]]
-URL = "#service"
-name = "Service"
+URL = "#services"
+name = "Services"
 weight = 3
 [[languages.en.menu.main]]
-URL = "#project"
-name = "Project"
+URL = "#portfolio"
+name = "Works"
 weight = 4
 [[languages.en.menu.main]]
 URL = "#contact"
