@@ -2,7 +2,7 @@
 bg_image = "images/featue-bg.jpg"
 category = []
 description = "Recruitment management system"
-image = ""
+image = "images/cymosoft400x400.png"
 title = "Recruit Portal"
 [[information]]
 info = "A Japanese Client"
