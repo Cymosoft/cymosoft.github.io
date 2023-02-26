@@ -1,7 +1,7 @@
 ---
 title: Task Management
 description: With Todo, Messaging, File Management
-image: ''
+image: images/cymosoft400x400.png
 bg_image: images/featue-bg.jpg
 category: []
 information:
