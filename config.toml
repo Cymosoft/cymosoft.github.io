@@ -5,7 +5,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = "4"
 summaryLength = "30"
-theme = "airspace-hugo"
+theme = "megha-hugo"
 title = "Cymosoft | Technology Consultant"
 [languages.en]
 contentDir = "content/english"
@@ -38,9 +38,13 @@ URL = "service"
 name = "Service"
 weight = 3
 [[languages.en.menu.main]]
+URL = "project"
+name = "Project"
+weight = 4
+[[languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 [languages.ja]
 contentDir = "content/japanese"
 copyright = "&copy; [Cymosoft](https://cymosoft.com) 2022"
