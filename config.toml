@@ -5,7 +5,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = "4"
 summaryLength = "30"
-theme = "megha-hugo"
+theme = "meghna-hugo"
 title = "Cymosoft | Technology Consultant"
 [languages.en]
 contentDir = "content/english"
