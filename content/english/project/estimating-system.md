@@ -1,23 +1,22 @@
 ---
 title: "Estimating System"
-image: ""
-email: ""
+date: 2022-09-12T14:51:12+06:00
+author: Phong Nguyen
+description : "Estimating System"
 ---
 
 The system which provide estimating result for construction materials
-title = "Estimating System"
-[[information]]
-info = "Japanse client"
-label = "Client"
-[[information]]
-info = "System Design & Delivery"
-label = "What We Did"
-[[information]]
-info = "AWS"
-label = "Tools Used"
-[[information]]
-info = "22th August 2022"
-label = "Completed on"
-[[information]]
-info = "JAVA / ANGULAR"
-label = "Skills"
+## Client
+Japanse client
+
+## What We Did
+System Design & Delivery
+
+## Tools Used
+AWS
+
+## Completed on
+22th August 2022
+
+## Skills
+JAVA / ANGULAR
