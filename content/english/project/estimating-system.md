@@ -2,7 +2,7 @@
 bg_image = "images/featue-bg.jpg"
 category = []
 description = "The system which provide estimating result for construction materials"
-image = "uploads/estimate-logo.jpg"
+image = ""
 title = "Estimating System"
 [[information]]
 info = "Japanse client"
