@@ -1,7 +1,8 @@
 ---
 title: "Estimating System"
 date: 2022-09-12T14:51:12+06:00
-author: Phong Nguyen
+image: uploads/estimate-logo.jpg
+
 description : "Estimating System"
 ---
 

@@ -1,23 +1,23 @@
-+++
-bg_image = "images/featue-bg.jpg"
-category = []
-description = "Recruitment management system"
-image = "uploads/recruitment-system-logo.jpg"
-title = "Recruit Portal"
-[[information]]
-info = "A Japanese Client"
-label = "Client"
-[[information]]
-info = "System Design & Delivery"
-label = "What We Did"
-[[information]]
-info = "AWS, Docker"
-label = "Tools Used"
-[[information]]
-info = "1th May 2021"
-label = "Completed on"
-[[information]]
-info = "AWS / PHP / HTML5 / TYPESCRIPT / CSS3"
-label = "Skills"
+---
+title: "Recruitment management system"
+date: 2022-09-12T14:51:12+06:00
+image: uploads/recruitment-system-logo.jpg
 
-+++
+description : "Recruit Portal"
+---
+
+Recruit Portal
+## Client
+Japanse client
+
+## What We Did
+System Design & Delivery
+
+## Tools Used
+AWS, Docker
+
+## Completed on
+1th May 2021
+
+## Skills
+AWS / PHP / HTML5 / TYPESCRIPT / CSS3

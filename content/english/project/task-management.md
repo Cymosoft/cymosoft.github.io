@@ -1,19 +1,23 @@
 ---
-title: Task Management
-description: With Todo, Messaging, File Management
-image: uploads/cymosoft400x400.png
-bg_image: images/featue-bg.jpg
-category: []
-information:
-- label: Client
-  info: Actuarise
-- label: What We Did
-  info: System Design & Delivery
-- label: Tools Used
-  info: AWS
-- label: Completed on
-  info: 17th December 2021
-- label: Skills
-  info: AWS / RAILS / HTML5 / TYPESCRIPT / CSS3
+title: "Task Management"
+date: 2022-09-12T14:51:12+06:00
+image: uploads/team-todo-logo.jpg
 
+description : "Recruit Portal"
 ---
+
+With Todo, Messaging, File Management
+## Client
+Japanse client
+
+## What We Did
+System Design & Delivery
+
+## Tools Used
+AWS, Docker
+
+## Completed on
+17th December 2021
+
+## Skills
+AWS / RAILS / HTML5 / TYPESCRIPT / CSS3

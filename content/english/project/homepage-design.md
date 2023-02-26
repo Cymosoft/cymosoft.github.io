@@ -1,23 +1,23 @@
-+++
-bg_image = "images/featue-bg.jpg"
-category = []
-description = "Multi-device support with Responsive Design"
-image = "uploads/cymosoft400x400.png"
-title = "Homepage Design"
-[[information]]
-info = "Japanese Client"
-label = "Client"
-[[information]]
-info = "Homepage Design & Delivery"
-label = "What We Did"
-[[information]]
-info = "Photoshop, Illustrator, VSCode"
-label = "Tools Used"
-[[information]]
-info = "11th May 2022"
-label = "Completed on"
-[[information]]
-info = "AWS / HTML5 / Javascript / CSS3"
-label = "Skills"
+---
+title: "Homepage Design"
+date: 2022-09-12T14:51:12+06:00
+image: uploads/home-page-logo.jpg
 
-+++
+description : "Homepage Design"
+---
+
+Multi-device support with Responsive Design
+## Client
+Japanse client
+
+## What We Did
+Homepage Design & Delivery
+
+## Tools Used
+Photoshop, Illustrator, VSCode
+
+## Completed on
+11th May 2022
+
+## Skills
+AWS / HTML5 / Javascript / CSS3
