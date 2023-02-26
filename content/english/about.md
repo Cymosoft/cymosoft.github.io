@@ -3,7 +3,7 @@ title: About Our Company
 description: Cymosoft,. JSC
 layout: about
 about:
-  enable: false
+  enable: true
   image: images/company/about.jpg
   title: We strive to be the best and <br> make awesome work.
   content: ''
