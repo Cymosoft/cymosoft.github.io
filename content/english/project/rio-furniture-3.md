@@ -1,7 +1,7 @@
 ---
 title: Task Management
 description: With Todo, Messaging, File Management
-image: uploads/team-todo-logo.jpg
+image: ''
 bg_image: images/featue-bg.jpg
 category: []
 information:
