@@ -26,7 +26,7 @@
 }
 .overly:before {
     content: '';
-    background: rgba(0,0,0,1);
+    background: rgba(0,11,35,1);
     position: absolute;
     top: 0;
     right: 0;
