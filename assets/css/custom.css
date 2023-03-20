@@ -24,3 +24,14 @@
     filter: blur(50px);
     -webkit-filter: blur(50px);
 }
+.overly:before {
+    content: '';
+    background: rgba(0,0,0,1);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    filter: blur(27px);
+    -webkit-filter: blur(27px);
+}
