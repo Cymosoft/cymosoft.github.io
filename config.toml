@@ -7,8 +7,6 @@ paginate = "4"
 summaryLength = "30"
 theme = "meghna-hugo"
 title = "Cymosoft | Technology Consultant"
-
-################### English Navigation ########################
 [languages.en]
 contentDir = "content/english"
 copyright = "&copy; [Cymosoft](https://cymosoft.com) 2023"
@@ -203,7 +201,7 @@ phone = "(+84) 0388827518"
 [params.contact.form]
 action = "#"
 enable = true
-use_netlify = false
+use_netlify = true
 [params.cookies]
 enable = false
 expire_days = 2
@@ -213,8 +211,6 @@ gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
-############################# Plugins ##########################
-# css plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -225,8 +221,6 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
-
-# js plugins
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
@@ -241,15 +235,11 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
-
 [params.preloader]
 enable = true
 preloader = "images/favicon.png"
-
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-
-
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
