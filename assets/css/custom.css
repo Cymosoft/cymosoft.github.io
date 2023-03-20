@@ -14,3 +14,6 @@
     font-size: 55px !important;
   }
 }
+@font-face {
+  font-display: swap;
+}
