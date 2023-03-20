@@ -20,7 +20,7 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "https://formsubmit.co/contact@cymosoft.com"
+    form_action : "https://airform.io/contact@cymosoft.com"
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"
