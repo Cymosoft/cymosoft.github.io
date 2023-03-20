@@ -199,9 +199,9 @@ email = "contact [at] cymosoft.com"
 location = "A6-TT2 Van Quan Urban Area, Hadong District, Hanoi, Vietnam"
 phone = "(+84) 0388827518"
 [params.contact.form]
-action = "#"
+action = "https://formsubmit.co/contact@cymosoft.com"
 enable = true
-use_netlify = true
+use_netlify = false
 [params.cookies]
 enable = false
 expire_days = 2
