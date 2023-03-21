@@ -6,19 +6,19 @@ service:
       # feature item loop
     - name : IT Consulting
       icon : ti-user # themify icon pack : https://themify.me/themify-icons
-      content : Offer tailored solutions to meet your business needs
+      content : Strategy & Planning, Cybersecurity & Risk Management, Data Analytics & Business Intelligence
 
       # feature item loop
     - name : Web Development
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Support popular frameworks such as CakePHP, Laravel, VueJS, Angular, ReactJS
+      content : Website Design, Development, Optimization, Maintenance and Support
 
       # feature item loop
     - name : Mobile app Development
       icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      content : Support common mobile OS such as iOS, Android and Hybrid app
+      content : Design, Development, Quality Assurance and Testing
       
       # feature item loop
     - name : Cloud Computing
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-      content : Support common cloud services such as AWS, Azure and GCP
+      content : Infrastructure Management, Migration, Backup & Recovery, Security, Application Development

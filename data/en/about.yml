@@ -1,16 +1,24 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Why Choose Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : As a creative software development company, we are committed to thinking outside the box and delivering unique and innovative solutions that set you apart from the competition and achieve your business goals.
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Expertise
+    content : Our team has years of experience in software development and is always up-to-date with the latest technologies and trends.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : As design software professionals, we have the expertise and experience to deliver top-quality solutions that meet your specific needs and exceed your expectations.
+  - icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+    title : Quality
+    content : We are committed to delivering high-quality solutions that meet our clients' needs and exceed their expectations.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : We pride ourselves on being geniuses in software development, with a team of highly skilled and experienced professionals who are passionate about creating innovative and effective solutions for our clients.
+  - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    title : Collaboration
+    content : We work closely with our clients throughout the project to ensure their input is heard and their goals are achieved.
+
+  - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+    title : Support
+    content : We provide ongoing support to ensure our clients' systems are running smoothly and their users are satisfied.
+
+  - icon : ti-money # themify icon pack : https://themify.me/themify-icons
+    title : Cost-effective
+    content : We offer competitive pricing without sacrificing quality or service.

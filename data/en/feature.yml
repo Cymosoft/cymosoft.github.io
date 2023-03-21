@@ -4,15 +4,29 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We're a software development company.
-  content :
+  content : At Cymosoft,. JSC, we have experience working with a variety of technologies and programming languages.
   feature_item : 
       # feature item loop
-    - title : IT Consulting
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Our expert IT consulting services offer tailored solutions to meet your business needs, improve efficiency, and optimize your technology infrastructure for maximum productivity and growth.
+    - title : Mobile App Development
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : iOS, Android, Cordova, Xamarin, React Native
 
       # feature item loop
-    - title : Offshore Development
+    - title : Web development
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Our offshore development services provide you with access to a highly skilled and cost-effective talent pool to build your software solutions while maintaining high-quality standards and timely delivery.
-      
+      content : Spring Framework, Ruby on Rails, Laravel, VueJS, ReactJS
+
+      # feature item loop
+    - title : Desktop development
+      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content : .NET, Java, C++
+
+      # feature item loop
+    - title : Cloud services
+      icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
+      content : AWS, Microsoft Azure, Google Cloud Platform
+
+      # feature item loop
+    - title : Database development
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Oracle, MySQL, PostgreSQL, MongoDB
