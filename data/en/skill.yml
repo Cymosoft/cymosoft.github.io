@@ -12,7 +12,7 @@ skill:
       
     # skill item loop
     - name :  Analysis
-      percent : 70%
+      percent : 80%
       
     # skill item loop
     - name :  Design
@@ -23,4 +23,11 @@ skill:
       
     # skill item loop
     - name :  Mobile App Development
+      percent : 90%
+      # skill item loop
+  
+    - name :  Desktop App Development
       percent : 80%
+
+    - name :  Cloud Computing
+      percent : 90%
