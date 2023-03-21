@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Why Choose Us
+  title : About Us
   about_item :
   - icon : ti-user # themify icon pack : https://themify.me/themify-icons
     title : Expertise
