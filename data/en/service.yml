@@ -14,11 +14,16 @@ service:
       content : Website Design, Development, Optimization, Maintenance and Support
 
       # feature item loop
-    - name : Mobile app Development
+    - name : Mobile App Development
       icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      content : Design, Development, Quality Assurance and Testing
-      
+      content : Mobile App Design, Development, Quality Assurance and Testing
+
       # feature item loop
-    - name : Cloud Computing
+    - name : Desk App Development
+      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content : Desk App Design, Development, Quality Assurance and Testing
+
+      # feature item loop
+    - name : Cloud Development
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
       content : Infrastructure Management, Migration, Backup & Recovery, Security, Application Development

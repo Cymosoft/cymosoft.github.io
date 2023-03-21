@@ -22,7 +22,7 @@ feature:
       content : .NET, Java, C++
 
       # feature item loop
-    - title : Cloud services
+    - title : Cloud Development
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
       content : AWS, Microsoft Azure, Google Cloud Platform
 
