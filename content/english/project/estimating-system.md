@@ -11,6 +11,6 @@ To accomplish this, we utilized AWS and Vscode as our primary tools, which helpe
 
 Our team took a data-driven approach to designing the system, utilizing various algorithms and data models to ensure that the estimating results provided were highly accurate and reliable. We also ensured that the system was highly scalable and could handle large volumes of data and user traffic.
 
-The final product was delivered to the client on August 22nd, 2022, and met all of their requirements and expectations. The use of AWS ensured that the system was highly secure and reliable, while the use of Vscode made it easy for the client to modify and customize the system as needed.
+The final product was met all of their requirements and expectations. The use of AWS ensured that the system was highly secure and reliable, while the use of Vscode made it easy for the client to modify and customize the system as needed.
 
 Overall, our project resulted in a highly functional and efficient system that provides accurate and reliable estimating results for construction materials, allowing our client to make informed decisions and operate more efficiently in their industry.
