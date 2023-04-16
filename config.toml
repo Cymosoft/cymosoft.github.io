@@ -9,7 +9,7 @@ theme = "meghna-hugo"
 title = "Cymosoft | Technology Consultant"
 [languages.en]
 contentDir = "content/english"
-copyright = "&copy; [Cymosoft](https://cymosoft.com) 2023"
+copyright = "&copy; [Cymosoft](https://cymosoft.com) 2021-2023"
 languageCode = "en-US"
 languageName = "English"
 weight = 1
