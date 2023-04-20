@@ -1,0 +1,12 @@
+############################# call to action ##############################
+cta:
+  enable: true
+  bg_image: "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp: "images/backgrounds/bg-white-wall.webp"
+  title: "優れたソフトウェア設計と驚くべき機能"
+  content: "もう待つ必要はありません。今すぐビジネスに投資し、当社のソフトウェア会社とパートナーになり、
+    ビジネスを次のレベルに引き上げましょう！"
+  button:
+    enable: true
+    label: "プロジェクトを開始する"
+    link: "#contact"

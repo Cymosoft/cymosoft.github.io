@@ -83,34 +83,38 @@ weight = 1
 URL = "#about"
 name = "会社情報"
 weight = 2
-[[languages.ja.menu.main]]
-URL = "#project"
-name = "プロジェクト"
-weight = 3
-[[languages.ja.menu.main]]
-URL = "#blog"
-name = "ブログ"
-weight = 4
-[[languages.ja.menu.main]]
-hasChildren = true
-name = "もっと見る"
-weight = 5
-[[languages.ja.menu.main]]
-URL = "#faq"
-name = "FAQ"
-parent = "もっと見る"
-[[languages.ja.menu.main]]
-URL = "#pricing"
-name = "価格"
-parent = "もっと見る"
+# [[languages.ja.menu.main]]
+# URL = "#project"
+# name = "プロジェクト"
+# weight = 3
+# [[languages.ja.menu.main]]
+# URL = "#blog"
+# name = "ブログ"
+# weight = 4
+# [[languages.ja.menu.main]]
+# hasChildren = true
+# name = "もっと見る"
+# weight = 5
+# [[languages.ja.menu.main]]
+# URL = "#faq"
+# name = "FAQ"
+# parent = "もっと見る"
+# [[languages.ja.menu.main]]
+# URL = "#pricing"
+# name = "価格"
+# parent = "もっと見る"
 [[languages.ja.menu.main]]
 URL = "#service"
 name = "サービス"
-parent = "もっと見る"
+weight = 3
+[[languages.ja.menu.main]]
+URL = "#portfolio"
+name = "実績"
+weight = 4
 [[languages.ja.menu.main]]
 URL = "#contact"
 name = "お問い合わせ"
-weight = 6
+weight = 5
 [languages.vi]
 contentDir = "content/vietnamese"
 copyright = "&copy; [Cymosoft](https://cymosoft.com) 2023"

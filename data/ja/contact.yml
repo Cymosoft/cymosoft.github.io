@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : 当社へのご連絡
+  subtitle : 連絡詳細
+  content : 是非お問い合わせくださいませ。詳細についてご案内いたします
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "A6-TT2 Van Yen St., Phuc La, Ha Dong, Hanoi, Vietnam"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "電話番号: (+84) 038-8827-518"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "メールアドレス: contact@cymosoft.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://airform.io/contact@cymosoft.com"
+    name : "お名前"
+    email : "メールアドレス"
+    subject : "件名"
+    message : "お問い合わせ内容"
+    submit : "送信"

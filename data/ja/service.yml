@@ -1,0 +1,28 @@
+################################# Service #################################
+service:
+  enable: true
+  title: 当社のサービス
+  service_item:
+    - name: ITコンサルティング
+      icon: ti-user # themify icon pack : https://themify.me/themify-icons
+      content: 戦略・計画、サイバーセキュリティ・リスク管理、データ分析・ビジネスインテリジェンス
+
+    - name: Web開発
+      icon: ti-layout # themify icon pack : https://themify.me/themify-icons
+      content: ウェブサイトのデザイン、開発、最適化、メンテナンスとサポート
+
+    - name: モバイルアプリ開発
+      icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content: モバイルアプリのデザイン、開発、品質保証とテスト
+
+    - name: デスクトップアプリ開発
+      icon: ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content: デスクトップアプリのデザイン、開発、品質保証とテスト
+
+    - name: クラウド開発
+      icon: ti-cloud # themify icon pack : https://themify.me/themify-icons
+      content: インフラ管理、移行、バックアップと復旧、セキュリティ、アプリケーション開発
+
+    - name: オフショア開発センター
+      icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      content: 製品開発チーム全体のエンジニア、インフラ、サポート、および機器。

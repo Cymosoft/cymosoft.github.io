@@ -1,0 +1,15 @@
+############################### Banner ################################
+banner:
+  enable: true
+  bg_image_webp: "images/backgrounds/hero-area.webp"
+  bg_image: "images/backgrounds/hero-area.jpg"
+  icon: "" # themify icon pack : https://themify.me/themify-icons
+  title: "テクノロジーコンサルタント"
+  content: "Cymosoft株式会社では、ソフトウェア開発に協力的なアプローチを信じています。
+    当社は、クライアントと緊密に連携し、ビジネスニーズや目標を理解し、それを活かして特定の要件に合わせた
+    ソリューションを設計・開発しています。私たちのプロセスは透明で、アジャイルであり、プロジェクトのすべての
+    ステージでクライアントに価値を提供することに重点を置いています。"
+  button:
+    enable: true
+    label: "当社について"
+    link: "#services"

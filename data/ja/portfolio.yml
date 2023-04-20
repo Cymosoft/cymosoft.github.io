@@ -1,0 +1,75 @@
+#################################### portfolio ###############################
+portfolio:
+  enable: true
+  title: 当社の実績
+  portfolio_item:
+    - name: タスク管理
+      image: images/portfolio/work4.jpg
+      image_webp: images/portfolio/work1.jpg
+      categories: ["Web", "ハイブリッド"]
+      content: Ruby on Rails、Javascript、HTML、SASS、Ionic Framework、MySQL、AWS
+      link: /project/project1.html
+
+    - name: 採用管理
+      image: images/portfolio/work2.jpg
+      image_webp: images/portfolio/work2.jpg
+      categories: ["Web", "ハイブリッド"]
+      content: CakePHP、Javascript、HTML、SASS、Ionic Framework、GCP、MySQL
+      link: /project/project2.html
+
+    - name: 見積もりシステム
+      image: images/portfolio/work3.jpg
+      image_webp: images/portfolio/work3.jpg
+      categories: ["Web"]
+      content: Java、Angular、HTML、SASS
+      link: /project/project3.html
+
+    - name: 出退勤ログアプリ
+      image: images/portfolio/work4.jpg
+      image_webp: images/portfolio/work4.jpg
+      categories: ["Iot"]
+      content: Java
+      link: /project/project4.html
+
+    - name: 学校管理アプリ
+      image: images/portfolio/work5.jpg
+      image_webp: images/portfolio/work5.jpg
+      categories: ["モバイル"]
+      content: Kotlin、Android SDK、Swift、iOS SDK、MySQL
+      link: /project/project5.html
+
+    - name: ウェアラブル連携アプリ
+      image: images/portfolio/work6.jpg
+      image_webp: images/portfolio/work6.jpg
+      categories: ["モバイル"]
+      content: Java、Android SDK
+      link: /project/project6.html
+
+    - name: 通貨換算アプリ
+      image: images/portfolio/work1.jpg
+      image_webp: images/portfolio/work1.jpg
+      categories: ["モバイル"]
+      content: Java、Swift/Objective-C
+      link: /project/project7.html
+
+    - name: ビジネスプロセスの自動化
+      image: images/portfolio/work2.jpg
+      image_webp: images/portfolio/work2.jpg
+      categories: ["RPA"]
+      content: UIPath
+      link: /project/project8.html
+
+    - name: 患者管理システム
+      image: images/portfolio/work3.jpg
+      image_webp: images/portfolio/work3.jpg
+      categories: ["Web"]
+      content: PHP、Javascript、HTML、CSS、PostgreSQL
+      link: /project/project9.html
+
+    # portfolio item loop 10
+    - name: 税金計算システム
+      image: images/portfolio/work4.jpg
+      image_webp: images/portfolio/work4.jpg
+      categories: ["デスクトップ"]
+      content: Java、VBA、Oracle
+      link: /project/project10.html

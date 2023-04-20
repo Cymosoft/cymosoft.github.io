@@ -1,0 +1,28 @@
+################################# Skill ##################################
+skill:
+  enable: true
+  title: 当社のスキル
+  subtitle: 私たちは幅広いソフトウェア開発に熟練しています。
+  content: 
+  image: images/about/company-growth.webp
+  skill_item:
+    - name: ビジネス開発
+      percent: 90%
+    
+    - name: 分析
+      percent: 80%
+    
+    - name: デザイン
+      percent: 80%
+    
+    - name: Web開発
+      percent: 95%
+    
+    - name: モバイルアプリ開発
+      percent: 90%
+    
+    - name: デスクトップアプリ開発
+      percent: 80%
+    
+    - name: クラウド開発
+      percent: 90%
