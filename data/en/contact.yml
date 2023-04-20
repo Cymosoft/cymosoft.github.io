@@ -8,10 +8,10 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "A6-TT2 Van Quan Urban Area, Hadong District, Hanoi, Vietnam"
+      info : "A6-TT2 Van Yen St., Phuc La, Ha Dong, Hanoi, Vietnam"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: (+84) 0388827518"
+      info : "Phone: (+84) 038-8827-518 / (+81) 080-9562-4086"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: contact@cymosoft.com"
