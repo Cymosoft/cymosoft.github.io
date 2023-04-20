@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-user # themify icon pack : https://themify.me/themify-icons
     title : Expertise
-    content : Our team has years of experience in software development and is always up-to-date with the latest technologies and trends.
+    content : Our team has an abundance of experience in software development and is always up-to-date with the latest technologies and trends.
 
   - icon : ti-crown # themify icon pack : https://themify.me/themify-icons
     title : Quality
