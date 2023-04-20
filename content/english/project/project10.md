@@ -1,6 +1,6 @@
 ---
 title: Tax Calculator System
-image: images/portfolio/project1.png
+image: images/portfolio/project10.png
 
 ---
 Our client app development project automates tax calculations, minimizing errors and simplifying the tax-filing process for individuals and businesses.
