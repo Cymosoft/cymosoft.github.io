@@ -27,3 +27,8 @@ service:
     - name : Cloud Development
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
       content : Infrastructure Management, Migration, Backup & Recovery, Security, Application Development
+
+      # feature item loop
+    - name : Offshore Development Center
+      icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      content : Engineers, infrastructure, support, and equipment for your entire product development team.

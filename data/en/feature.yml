@@ -30,3 +30,8 @@ feature:
     - title : Database development
       icon : ti-server # themify icon pack : https://themify.me/themify-icons
       content : Oracle, MySQL, PostgreSQL, MongoDB
+
+      # feature item loop
+    - name : Offshore Development Center
+      icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      content : Your remote software development center located in Vietnam.
