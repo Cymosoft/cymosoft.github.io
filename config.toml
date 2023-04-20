@@ -105,7 +105,7 @@ weight = 2
 # name = "価格"
 # parent = "もっと見る"
 [[languages.ja.menu.main]]
-URL = "#service"
+URL = "#services"
 name = "サービス"
 weight = 3
 [[languages.ja.menu.main]]
