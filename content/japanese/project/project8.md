@@ -1,6 +1,6 @@
 ---
 title: ビジネスプロセスの自動化
-image: images/portfolio/project7.png
+image: images/portfolio/project8.png
 
 ---
 当社のクライアントの開発プロジェクトは、高度なロボティックプロセスオートメーション（RPA）技術を活用して、既存の小売会社の自動化アプリケーションをアップグレードすることを目的としています。
