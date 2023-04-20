@@ -3,7 +3,7 @@ contact:
   enable : true
   title : 当社へのご連絡
   subtitle : 連絡詳細
-  content : 是非お問い合わせくださいませ。詳細についてご案内いたします
+  content : 是非お問い合わせくださいませ。詳細についてご案内いたします。
 
   # Contact details
   contact_list:
