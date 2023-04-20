@@ -1,8 +1,7 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+
   title : "Great Software Design & Incredible Features"
   content : "Don't wait any longer, invest in your business today and partner with our software company to take it to the next level!"
   button:
