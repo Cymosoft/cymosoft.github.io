@@ -6,49 +6,49 @@ portfolio:
     - name : Task Management
       image : images/portfolio/work4.jpg
       image_webp : images/portfolio/work1.jpg
-      categories : ["Web App", "Hybrid Mobile App"]
+      categories : ["Web", "Hybrid"]
       content : Ruby on Rails, Javascript, HTML, SASS, Ionic Framework, MySQL, AWS
       link : /project/project1.html
 
     - name : Recruitment Management
       image : images/portfolio/work2.jpg
       image_webp : images/portfolio/work2.jpg
-      categories : ["Web App", "Hybrid Mobile App"]
+      categories : ["Web", "Hybrid"]
       content : CakePHP, Javascript, HTML, SASS, Ionic Framework, GCP, MySQL
       link : /project/project2.html
 
     - name : Estimating System
       image : images/portfolio/work3.jpg
       image_webp : images/portfolio/work3.jpg
-      categories : ["Web App"]
+      categories : ["Web"]
       content : Java, Angular, HTML, SASS
       link : /project/project3.html
 
     - name : Attendance Log App
       image : images/portfolio/work4.jpg
       image_webp : images/portfolio/work4.jpg
-      categories : ["IoT App"]
+      categories : ["Iot"]
       content : Provide Recruit Portal
       link : /project/project4.html
 
     - name : School Management App
       image : images/portfolio/work5.jpg
       image_webp : images/portfolio/work5.jpg
-      categories : ["Mobile App"]
+      categories : ["Mobile"]
       content : Kotlin, Android SDK, Swift, iOS SDK, MySQL
       link : /project/project5.html
 
     - name : Wearable Connect App
       image : images/portfolio/work6.jpg
       image_webp : images/portfolio/work6.jpg
-      categories : ["Mobile App"]
+      categories : ["Mobile"]
       content : Java, Android SDK
       link : /project/project6.html
 
     - name : Exchange App
       image : images/portfolio/work1.jpg
       image_webp : images/portfolio/work1.jpg
-      categories : ["Mobile App"]
+      categories : ["Mobile"]
       content : Java, Swift/Objective-C
       link : /project/project7.html
 
@@ -62,7 +62,7 @@ portfolio:
     - name : Patient Management System
       image : images/portfolio/work3.jpg
       image_webp : images/portfolio/work3.jpg
-      categories : ["Web App"]
+      categories : ["Web"]
       content : PHP, Javascript, HTML, CSS, PostgreSQL
       link : /project/project9.html
 
@@ -70,6 +70,6 @@ portfolio:
     - name : Tax Calculator System
       image : images/portfolio/work4.jpg
       image_webp : images/portfolio/work4.jpg
-      categories : ["Desktop App"]
+      categories : ["Desktop"]
       content : Java, VBA, Oracle
       link : /project/project10.html
