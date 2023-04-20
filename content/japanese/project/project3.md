@@ -1,15 +1,15 @@
 ---
-title: Estimating System
+title: 見積もりシステム
 image: images/portfolio/project3.png
 
 ---
-Our client app provides building and rendering 3D models of architecture, providing price estimates for each component, and generating invoices. Our team aims to create a user- friendly interface that simplifies the process of 3D modeling, estimation, and invoicing, optimizing productivity and improving accuracy.
+当社のクライアントアプリは、建築物の3Dモデルを構築・レンダリングし、各部品の価格見積もりを提供し、請求書を生成します。私たちのチームは、3Dモデリング、見積もり、請求書作成のプロセスを簡素化し、生産性を最適化し、正確性を向上させるためのユーザーフレンドリーなインターフェースを作成することを目指しています。
 
-### Duration
-20 months
+### 期間
+20ヶ月
 
-### Type
-Web App
+### タイプ
+Webアプリ
 
-### Tech Stack
-Java, Angular, HTML, SASS
+### 技術スタック
+Java、Angular、HTML、SASS

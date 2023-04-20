@@ -1,15 +1,15 @@
 ---
-title: Exchange App
+title: 交換アプリ
 image: images/portfolio/project7.png
 
 ---
-Our client app development project enables residents to exchange information and goods, obtain information on apartments and residents' associations, and enhance community engagement through improved communication and collaboration.
+当社のクライアントアプリの開発プロジェクトでは、居住者が情報や商品を交換し、アパートや居住者協会に関する情報を入手し、改善されたコミュニケーションと協力を通じてコミュニティ参加を促進することができます。
 
-### Duration
-12 months
+### 期間
+12ヶ月
 
-### Type
-Mobile App (Android/iOS)
+### タイプ
+モバイルアプリ(Android/iOS)
 
-### Tech Stack
-Java, Swift/Objective-C
+### 技術スタック
+Java、Swift/Objective-C

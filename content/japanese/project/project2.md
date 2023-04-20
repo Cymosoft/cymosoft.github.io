@@ -1,15 +1,15 @@
 ---
-title: Recruitment Management
+title: 採用管理
 image: images/portfolio/project2.png
 
 ---
-Our client app provides offers features such as a job board, application forms, candidate evaluation, email and budget management, and offer management to optimize the recruitment process and improve organizational efficiency.
+当社のクライアントアプリには、求人掲載、応募フォーム、候補者評価、メールおよび予算管理、オファー管理などの機能があり、採用プロセスを最適化し、組織の効率を向上させます。
 
-### Duration
-12 months
+### 期間
+12ヶ月
 
-### Type
-Web App, Hybrid Mobile App
+### タイプ
+Webアプリ、ハイブリッドモバイルアプリ
 
-### Tech Stack
-CakePHP, Javascript, HTML, SASS, Ionic Framework, GCP, MySQL
+### 技術スタック
+CakePHP、Javascript、HTML、SASS、Ionic Framework、GCP、MySQL

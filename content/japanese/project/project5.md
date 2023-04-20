@@ -1,15 +1,15 @@
 ---
-title: School Management App
+title: 学校管理アプリ
 image: images/portfolio/project5.png
 
 ---
-Our client app provides a user-friendly interface for parents, students, and teachers to easily access academic progress, homework assignments, attendance records, and communication tools to enhance academic performance.
+当社のクライアントアプリは、保護者、学生、教師が学業の進捗状況、宿題、出席記録、コミュニケーションツールに簡単にアクセスできるよう、ユーザーフレンドリーなインターフェースを提供し、学業成績を向上させます。
 
-### Duration
-12 months
+### 期間
+12ヶ月
 
-### Type
-Web App, Hybrid Mobile App
+### タイプ
+Webアプリ、ハイブリッドモバイルアプリ
 
-### Tech Stack
-Ruby on Rails, Javascript, HTML, SASS, Ionic Framework, MySQL, AWS
+### 技術スタック
+Ruby on Rails、Javascript、HTML、SASS、Ionic Framework、MySQL、AWS

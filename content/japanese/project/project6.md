@@ -1,15 +1,15 @@
 ---
-title: Wearable Connect App
+title: ウェアラブル接続アプリ
 image: images/portfolio/project6.png
 
 ---
-Our client app development project connects wearable devices to mobile devices and has been refactored from classic Android architecture to MVVM architecture, reducing the app's source code by 40% while improving functionality and user experience.
+当社のクライアントアプリの開発プロジェクトは、ウェアラブルデバイスをモバイルデバイスに接続し、クラシックなAndroidアーキテクチャからMVVMアーキテクチャに再構築され、アプリのソースコードを40％削減しながら機能性とユーザーエクスペリエンスを向上させました。
 
-### Duration
-12 months
+### 期間
+12ヶ月
 
-### Type
-Mobile App (Android)
+### タイプ
+モバイルアプリ(Android)
 
-### Tech Stack
-Java, Android SDK
+### 技術スタック
+Java、Android SDK

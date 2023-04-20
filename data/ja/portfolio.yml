@@ -45,7 +45,7 @@ portfolio:
       content: Java、Android SDK
       link: /project/project6.html
 
-    - name: 通貨換算アプリ
+    - name: 換算アプリ
       image: images/portfolio/work1.jpg
       image_webp: images/portfolio/work1.jpg
       categories: ["モバイル"]

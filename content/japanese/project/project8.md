@@ -1,15 +1,15 @@
 ---
-title: Automate Business Processes
+title: ビジネスプロセスの自動化
 image: images/portfolio/project7.png
 
 ---
-Our client development project aims to upgrade their existing retail company automation application by leveraging advanced Robotic Process Automation (RPA) technology.
+当社のクライアントの開発プロジェクトは、高度なロボティックプロセスオートメーション（RPA）技術を活用して、既存の小売会社の自動化アプリケーションをアップグレードすることを目的としています。
 
-### Duration
-6 months
+### 期間
+6ヶ月
 
-### Type
-Robotic process automation (RPA)
+### タイプ
+ロボティックプロセスオートメーション（RPA）
 
-### Tech Stack
+### 技術スタック
 UIPath

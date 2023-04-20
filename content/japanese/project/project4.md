@@ -1,15 +1,15 @@
 ---
-title: Attendance Log App
+title: 出席ログアプリ
 image: images/portfolio/project4.png
 
 ---
-Our client app features facial recognition to identify users, open entrance gates, and log attendance to streamline check-ins, enhance security, and improve organizational efficiency.
+当社のクライアントアプリは、ユーザーの識別、入口ゲートの開閉、出席ログの記録などに顔認識機能を備え、チェックインをスムーズ化し、セキュリティを向上し、組織の効率を改善します。
 
-### Duration
-6 months
+### 期間
+6ヶ月
 
-### Type
-IoT App
+### タイプ
+IoTアプリ
 
-### Tech Stack
+### 技術スタック
 Java

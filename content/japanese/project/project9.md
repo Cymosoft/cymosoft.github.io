@@ -1,15 +1,15 @@
 ---
-title: Patient Management System
+title: 患者管理システム
 image: images/portfolio/project9.png
 
 ---
-Our client app development project enhances hospital operations, ensuring efficient tracking and organization of patient information and medical records.
+当社のクライアントの開発プロジェクトは、病院の運営を強化し、患者情報と医療記録の効率的な追跡と整理を保証します。
 
-### Duration
-6 months
+### 期間
+6ヶ月
 
-### Type
-Web App
+### タイプ
+Webアプリ
 
-### Tech Stack
-PHP, Javascript, HTML, CSS, PostgreSQL
+### 技術スタック
+PHP、Javascript、HTML、CSS、PostgreSQL

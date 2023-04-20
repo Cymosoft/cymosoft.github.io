@@ -1,15 +1,15 @@
 ---
-title: Tax Calculator System
+title: 税金計算システム
 image: images/portfolio/project10.png
 
 ---
-Our client app development project automates tax calculations, minimizing errors and simplifying the tax-filing process for individuals and businesses.
+当社のクライアントの開発プロジェクトは、税金の計算を自動化し、個人や企業の納税プロセスを簡素化することで、エラーを最小限に抑えます。
 
-### Duration
-12 months
+### 期間
+12ヶ月
 
-### Type
-Desktop App
+### タイプ
+デスクトップアプリ
 
-### Tech Stack
-Java, VBA, Oracle
+### 技術スタック
+Java、VBA、Oracle
