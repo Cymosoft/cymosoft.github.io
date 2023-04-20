@@ -1,5 +1,5 @@
 ---
-title: ビジネスプロセスの自動化
+title: ビジネスプロセス自動化
 image: images/portfolio/project8.png
 
 ---

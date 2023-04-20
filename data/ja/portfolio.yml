@@ -52,7 +52,7 @@ portfolio:
       content: Java、Swift/Objective-C
       link: /ja/project/project7.html
 
-    - name: ビジネスプロセスの自動化
+    - name: ビジネスプロセス自動化
       image: images/portfolio/work2.jpg
       image_webp: images/portfolio/work2.jpg
       categories: ["RPA"]
