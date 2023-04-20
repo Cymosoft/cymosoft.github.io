@@ -2,7 +2,7 @@
 skill:
   enable: true
   title: 当社のスキル
-  subtitle: 私たちは幅広いソフトウェア開発に熟練しています。
+  subtitle: 当社は幅広いソフトウェア開発に熟練しています。
   content: 
   image: images/about/company-growth.webp
   skill_item:
