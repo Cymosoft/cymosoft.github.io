@@ -19,7 +19,7 @@ service:
       content : Mobile App Design, Development, Quality Assurance and Testing
 
       # feature item loop
-    - name : Desk App Development
+    - name : Desktop App Development
       icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
       content : Desk App Design, Development, Quality Assurance and Testing
 

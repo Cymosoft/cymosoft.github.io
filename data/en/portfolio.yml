@@ -3,33 +3,73 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
-    # portfolio item loop
-    - name : Estimating System
-      image : images/portfolio/work1.jpg
-      image_webp : images/portfolio/work1.jpg
-      categories : ["Outsourcing"]
-      content : Provide estimating result for construction materials
-      link : /project/estimating-system.html
-    # portfolio item loop
-    - name : Homepage Design
-      image : images/portfolio/work2.jpg
-      image_webp : images/portfolio/work2.jpg
-      categories : ["Web Development"]
-      content : Provide Multi-device support with Responsive Design
-      link : /project/homepage-design.html
-
-    # portfolio item loop
-    - name : Recruitment management system
-      image : images/portfolio/work3.jpg
-      image_webp : images/portfolio/work3.jpg
-      categories : ["Outsourcing"]
-      content : Provide Recruit Portal
-      link : /project/recruit-portal.html
-
-    # portfolio item loop
     - name : Task Management
       image : images/portfolio/work4.jpg
+      image_webp : images/portfolio/work1.jpg
+      categories : ["Web App", "Hybrid Mobile App"]
+      content : Ruby on Rails, Javascript, HTML, SASS, Ionic Framework, MySQL, AWS
+      link : /project/project1.html
+
+    - name : Recruitment Management
+      image : images/portfolio/work2.jpg
+      image_webp : images/portfolio/work2.jpg
+      categories : ["Web App", "Hybrid Mobile App"]
+      content : CakePHP, Javascript, HTML, SASS, Ionic Framework, GCP, MySQL
+      link : /project/project2.html
+
+    - name : Estimating System
+      image : images/portfolio/work3.jpg
+      image_webp : images/portfolio/work3.jpg
+      categories : ["Web App"]
+      content : Java, Angular, HTML, SASS
+      link : /project/project3.html
+
+    - name : Attendance Log App
+      image : images/portfolio/work4.jpg
       image_webp : images/portfolio/work4.jpg
-      categories : ["Outsourcing"]
-      content : Provide Todo, Messaging and File Management
-      link : /project/task-management.html
+      categories : ["IoT App"]
+      content : Provide Recruit Portal
+      link : /project/project4.html
+
+    - name : School Management App
+      image : images/portfolio/work5.jpg
+      image_webp : images/portfolio/work5.jpg
+      categories : ["Mobile App"]
+      content : Kotlin, Android SDK, Swift, iOS SDK, MySQL
+      link : /project/project5.html
+
+    - name : Wearable Connect App
+      image : images/portfolio/work6.jpg
+      image_webp : images/portfolio/work6.jpg
+      categories : ["Mobile App"]
+      content : Java, Android SDK
+      link : /project/project6.html
+
+    - name : Exchange App
+      image : images/portfolio/work1.jpg
+      image_webp : images/portfolio/work1.jpg
+      categories : ["Mobile App"]
+      content : Java, Swift/Objective-C
+      link : /project/project7.html
+
+    - name : Automate Business Processes
+      image : images/portfolio/work2.jpg
+      image_webp : images/portfolio/work2.jpg
+      categories : ["RPA"]
+      content : UIPath
+      link : /project/project8.html
+
+    - name : Patient Management System
+      image : images/portfolio/work3.jpg
+      image_webp : images/portfolio/work3.jpg
+      categories : ["Web App"]
+      content : PHP, Javascript, HTML, CSS, PostgreSQL
+      link : /project/project9.html
+
+    # portfolio item loop 10
+    - name : Tax Calculator System
+      image : images/portfolio/work4.jpg
+      image_webp : images/portfolio/work4.jpg
+      categories : ["Desktop App"]
+      content : Java, VBA, Oracle
+      link : /project/project10.html
