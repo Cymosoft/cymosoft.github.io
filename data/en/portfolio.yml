@@ -28,7 +28,7 @@ portfolio:
       image : images/portfolio/work4.jpg
       image_webp : images/portfolio/work4.jpg
       categories : ["Iot"]
-      content : Provide Recruit Portal
+      content : Java
       link : /project/project4.html
 
     - name : School Management App

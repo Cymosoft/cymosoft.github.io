@@ -17,17 +17,3 @@
 @font-face {
   font-display: swap;
 }
-
-.portfolio-block img {
-    width: 100%;
-    height: auto;
-    filter: blur(50px);
-    -webkit-filter: blur(50px);
-}
-
-.img-fluid .mb-50 .lozad {
-  object-fit: cover;
-  object-position: top;
-  height: 200px;
-  width: 100%;
-}
