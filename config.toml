@@ -241,9 +241,6 @@ preloader = "images/favicon.png"
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/cymosoft"
 [[params.social]]
