@@ -1,15 +1,15 @@
 ############################# About ###################################
 about:
   enable: true
-  title: 当社について
+  title: 弊社について
   about_item:
   - icon: ti-user # themify icon pack : https://themify.me/themify-icons
     title: 専門知識
-    content: 当社のチームは、ソフトウェア開発に豊富な経験を持ち、常に最新の技術やトレンドに精通しています。
+    content: 弊社のチームは、ソフトウェア開発に豊富な経験を持ち、常に最新の技術やトレンドに精通しています。
 
   - icon: ti-crown # themify icon pack : https://themify.me/themify-icons
     title: 品質
-    content: 当社は、クライアントのニーズを満たし、期待を超える高品質なソリューションを提供することにコミットしています。
+    content: 弊社は、クライアントのニーズを満たし、期待を超える高品質なソリューションを提供することにコミットしています。
 
   - icon: ti-link # themify icon pack : https://themify.me/themify-icons
     title: コラボレーション
@@ -17,8 +17,8 @@ about:
 
   - icon: ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
     title: サポート
-    content: 当社は、継続的なサポートを提供し、クライアントのシステムがスムーズに動作し、ユーザーが満足していることを確認しています。
+    content: 弊社は、継続的なサポートを提供し、クライアントのシステムがスムーズに動作し、ユーザーが満足していることを確認しています。
 
   - icon: ti-money # themify icon pack : https://themify.me/themify-icons
     title: コスト効率的
-    content: 当社は、品質やサービスを犠牲にすることなく、競争力のある価格を提供しています。
+    content: 弊社は、品質やサービスを犠牲にすることなく、競争力のある価格を提供しています。

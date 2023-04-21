@@ -3,8 +3,8 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: 当社はソフトウェア開発会社です。
-  content: 株式会社サイモソフトでは、多種多様な技術やプログラミング言語を使用した豊富な経験があります。
+  title: 弊社はソフトウェア開発会社です。
+  content: 弊社では、多種多様な技術やプログラミング言語を使用した豊富な経験があります。
   feature_item:
       # feature item loop
     - title: モバイルアプリ開発

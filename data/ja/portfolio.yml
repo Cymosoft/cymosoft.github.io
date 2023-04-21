@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable: true
-  title: 当社の実績
+  title: プロジェクト実績
   portfolio_item:
     - name: タスク管理
       image: images/portfolio/work4.jpg

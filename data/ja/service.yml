@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable: true
-  title: 当社のサービス
+  title: 弊社のサービス
   service_item:
     - name: ITコンサルティング
       icon: ti-user # themify icon pack : https://themify.me/themify-icons
