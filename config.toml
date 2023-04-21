@@ -110,7 +110,7 @@ name = "サービス"
 weight = 3
 [[languages.ja.menu.main]]
 URL = "#portfolio"
-name = "実績"
+name = "プロジェクト実績"
 weight = 4
 [[languages.ja.menu.main]]
 URL = "#contact"
