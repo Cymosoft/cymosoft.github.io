@@ -19,7 +19,7 @@ feature:
       # feature item loop
     - title: デスクトップ開発
       icon: ti-desktop # themify icon pack : https://themify.me/themify-icons
-      content: .NET、Java、C++
+      content: .NET、Java
 
       # feature item loop
     - title: クラウド開発
