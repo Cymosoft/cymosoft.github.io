@@ -1,0 +1,14 @@
+{{ $netlifyidentitywidget := resources.Get "js/netlify-identity-widget.js" }}
+{{ $netlifycms := resources.Get "js/netlify-cms.js" }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <script src="{{ $netlifyidentitywidget.Permalink }}"></script>
+  </head>
+  <body>
+    <script src="{{ $netlifycms.Permalink }}"></script>
+  </body>
+</html>
