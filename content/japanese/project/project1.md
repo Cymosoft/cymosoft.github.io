@@ -16,6 +16,3 @@ Ruby on Rails、Javascript、HTML、SASS、Ionic Framework、MySQL、AWS
 
 #### 開発工程
 提案、要件定義、基本設計、詳細設計、製造、構築、試験
-
-#### プロジェクト人数
-6名
