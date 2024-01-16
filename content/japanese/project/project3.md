@@ -12,7 +12,7 @@ image: images/portfolio/project3.png
 Webアプリ
 
 #### 開発環境
-Java、Angular、HTML、SASS
+Java、Angular、HTML、CSS
 
 #### 開発工程
 詳細設計、製造、試験
