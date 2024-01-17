@@ -21,7 +21,7 @@ portfolio:
       image: images/portfolio/work3.jpg
       image_webp: images/portfolio/work3.jpg
       categories: ["Web"]
-      content: Java、Angular、HTML、SASS
+      content: Java、Angular、HTML、CSS
       link: /ja/project/project3.html
 
     - name: 出退勤ログアプリ
